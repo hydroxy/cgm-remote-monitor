@@ -18,13 +18,13 @@ processes = []
 
 [env]
 # A passphrase that must be at least 12 characters long. Avoid 'special' characters, which can cause problems in some cases.
-API_SECRET="splittersplitter"
+API_SECRET="removed"
 
 # Preferred BG units for the site: 'mg/dl' or 'mmol/l' (or just 'mmol').
 DISPLAY_UNITS="mmol/l"
 
 # The MongoDB Connection String to connect to your MongoDB cluster. If you don't have this from MongoDB Atlas, please re-read installation instructions at https://nightscout.github.io/vendors/mongodb/atlas/ before continuing.
-MONGODB_URI="mongodb+srv://heroku_2lqqdxzz:splitt3r@cluster-2lqqdxzz.c21nf.mongodb.net/heroku_2lqqdxzz?retryWrites=true&w=majority"
+MONGODB_URI="removed"
 
 #
 # If you want Nightscout to get BG readings from Dexcom Share you must enter your account credentials
